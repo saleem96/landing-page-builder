@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/templatelandingpage",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\TemplateLandingPage\\Providers\\TemplateLandingPageServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\TemplateLandingPage\\": ""
+        }
+    }
+}

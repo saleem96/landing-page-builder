@@ -1,0 +1,14 @@
+{
+    "name": "BlocksLandingPage",
+    "alias": "blockslandingpage",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\BlocksLandingPage\\Providers\\BlocksLandingPageServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
